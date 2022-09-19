@@ -4,9 +4,9 @@
 
 ***this will be in bold and italics***
 <br>
-![ME](forum mall.jpg)
+!["ME"](forum mall.jpg)
 <br>
-[Link](forum mall.html)
+["Link"](forum mall.html)
 <br>
 
 |      name     |   Grade   |
